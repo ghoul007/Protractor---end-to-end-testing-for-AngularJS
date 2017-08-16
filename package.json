@@ -1,0 +1,27 @@
+{
+  "name": "protractor_example",
+  "version": "1.0.0",
+  "description": "Example containing all example of protractor.",
+  "main": "conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed GHOUL",
+  "devDependencies": {
+    "astrolabe": "^0.3.6",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-protractor": "^2.3.0",
+    "gulp-watch": "^4.3.5",
+    "jasmine": "^2.4.1",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "protractor": "^3.3.0",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-html-reporter": "0.0.6",
+    "winston": "^2.2.0"
+  }
+}
